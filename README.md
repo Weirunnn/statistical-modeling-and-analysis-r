@@ -43,4 +43,4 @@ It enables organizations to make data-driven decisions using predictive insights
 ---
 
 ## Author
-JC EXPRESS – AI, Data, Software & Automation Solutions
+J & C EXPRESS – AI, Data, Software & Automation Solutions
